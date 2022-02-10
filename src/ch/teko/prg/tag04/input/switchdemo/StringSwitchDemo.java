@@ -1,4 +1,4 @@
-package ch.teko.oop.tag04.input.switchdemo;
+package ch.teko.prg.tag04.input.switchdemo;
 
 public class StringSwitchDemo {
     public static int getMonthNumber(String month) {
