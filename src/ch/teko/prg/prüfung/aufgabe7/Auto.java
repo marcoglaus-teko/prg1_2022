@@ -1,4 +1,4 @@
-package ch.teko.prg.prüfung.aufgabe6;
+package ch.teko.prg.prüfung.aufgabe7;
 
 public class Auto {
     private String besitzer;

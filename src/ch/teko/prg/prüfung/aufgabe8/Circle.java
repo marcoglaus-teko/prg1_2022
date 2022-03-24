@@ -1,4 +1,4 @@
-package ch.teko.prg.prüfung.aufgabe7;
+package ch.teko.prg.prüfung.aufgabe8;
 
 public class Circle {
     private String name;

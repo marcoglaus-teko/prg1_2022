@@ -1,4 +1,4 @@
-package ch.teko.prg.prüfung.aufgabe6;
+package ch.teko.prg.prüfung.aufgabe7;
 
 public class Parkplatz {
     private Auto[] parkfelder;
